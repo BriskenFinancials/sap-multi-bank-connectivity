@@ -1,40 +1,49 @@
 ## Table Of Contents
 
 <!-- disco-toc-start -->
-- Phase: Use Case Rollout
-  - [Obtain access to a self-guided demo environment for SAP MBC](#obtain-access-to-a-self-guided-demo-environment-for-sap-mbc)
-  - [Review product brochures, FAQs, and recorded demo videos](#review-product-brochures-faqs-and-recorded-demo-videos)
-  - [Gain access to a sandbox environment for hands-on exploration](#gain-access-to-a-sandbox-environment-for-hands-on-exploration)
-  - [Highlight potential use cases for SAP MBC](#highlight-potential-use-cases-for-sap-mbc)
-  - [Obtain FAQ or chatbot support for customer queries](#obtain-faq-or-chatbot-support-for-customer-queries)
-  - [Conduct a live demo session tailored to customer requirements](#conduct-a-live-demo-session-tailored-to-customer-requirements)
-  - [Showcase key SAP MBC functionalities in live demo](#showcase-key-sap-mbc-functionalities-in-live-demo)
-  - [Host a technical workshop to evaluate customer SAP system readiness](#host-a-technical-workshop-to-evaluate-customer-sap-system-readiness)
-  - [Define project scope for 1 company code and 3 banks](#define-project-scope-for-1-company-code-and-3-banks)
-  - [Present fixed-scope, fixed-price proposal with project timelines](#present-fixed-scope-fixed-price-proposal-with-project-timelines)
-  - [Finalize and sign the contract to initiate the implementation](#finalize-and-sign-the-contract-to-initiate-the-implementation)
-  - [Conduct project kickoff meeting](#conduct-project-kickoff-meeting)
-  - [Activate SAP MBC in customers SAP environment](#activate-sap-mbc-in-customers-sap-environment)
-  - [Conduct Fit-to-Standard workshop to map requirements to SAP MBC](#conduct-fit-to-standard-workshop-to-map-requirements-to-sap-mbc)
-  - [Ensure technical landscape readiness for SAP MBC implementation](#ensure-technical-landscape-readiness-for-sap-mbc-implementation)
-  - [Validate customer requirements against SAP MBC functionality](#validate-customer-requirements-against-sap-mbc-functionality)
-  - [Document payment formats required for 3 banks](#document-payment-formats-required-for-3-banks)
-  - [Plan MBC connectivity setup for each bank](#plan-mbc-connectivity-setup-for-each-bank)
-  - [Prepare test plan and data for customer-specific scenarios](#prepare-test-plan-and-data-for-customer-specific-scenarios)
-  - [Configure SAP MBC for the customers company code](#configure-sap-mbc-for-the-customers-company-code)
-  - [Set up bank accounts and communication channels for 3 banks](#set-up-bank-accounts-and-communication-channels-for-3-banks)
-  - [Conduct unit and integration testing for each scenario](#conduct-unit-and-integration-testing-for-each-scenario)
-  - [Train key users on SAP MBC functionality](#train-key-users-on-sap-mbc-functionality)
-  - [Prepare cutover plan and production environment](#prepare-cutover-plan-and-production-environment)
-  - [Conduct UAT and validate end-to-end process for 3 banks](#conduct-uat-and-validate-end-to-end-process-for-3-banks)
-  - [Move configurations to production and execute first live payment run](#move-configurations-to-production-and-execute-first-live-payment-run)
-  - [Monitor initial transactions for errors and delays](#monitor-initial-transactions-for-errors-and-delays)
-  - [Obtain hypercare support for 24 weeks post-go-live](#obtain-hypercare-support-for-24-weeks-post-go-live)
-  - [Transition support to customers internal IT team](#transition-support-to-customers-internal-it-team)
-  - [Conduct final project review and closure](#conduct-final-project-review-and-closure)
+- Discover
+  - [Obtain access to a self-guided demo environment for SAP MBC](#obtain-access-to-a-self-guided-demo-environment-for-sap-mbc)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Obtain access to a self-guided demo environment for SAP MBC"} dc-card -->
+  - [Review product brochures, FAQs, and recorded demo videos](#review-product-brochures-faqs-and-recorded-demo-videos)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Review product brochures, FAQs, and recorded demo videos"} dc-card -->
+  - [Request access to a sandbox environment for hands-on exploration](#request-access-to-a-sandbox-environment-for-hands-on-exploration)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Request access to a sandbox environment for hands-on exploration"} dc-card -->
+  - [Highlight potential use cases for SAP MBC](#highlight-potential-use-cases-for-sap-mbc)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Highlight potential use cases for SAP MBC"} dc-card -->
+  - [Obtain FAQ or chatbot support for customer queries](#obtain-faq-or-chatbot-support-for-customer-queries)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Obtain FAQ or chatbot support for customer queries"} dc-card -->
+- Talk To Brisken
+  - [Conduct a live demo session tailored to customer requirements](#conduct-a-live-demo-session-tailored-to-customer-requirements)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Conduct a live demo session tailored to customer requirements"} dc-card -->
+  - [Showcase key SAP MBC functionalities in live demo](#showcase-key-sap-mbc-functionalities-in-live-demo)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Showcase key SAP MBC functionalities in live demo"} dc-card -->
+  - [Host a technical workshop to evaluate customer SAP system readiness](#host-a-technical-workshop-to-evaluate-customer-sap-system-readiness)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Host a technical workshop to evaluate customer SAP system readiness"} dc-card -->
+  - [Define project scope for 1 company code and 3 banks](#define-project-scope-for-1-company-code-and-3-banks)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Define project scope for 1 company code and 3 banks"} dc-card -->
+  - [Present fixed-scope, fixed-price proposal with project timelines](#present-fixed-scope-fixed-price-proposal-with-project-timelines)<!-- dc-card: {"label": ["BRISKEN, CUSTOMER"], "cardName": "Present fixed-scope, fixed-price proposal with project timelines"} dc-card -->
+  - [Finalize and sign the contract to initiate the implementation](#finalize-and-sign-the-contract-to-initiate-the-implementation)<!-- dc-card: {"label": ["BRISKEN, CUSTOMER"], "cardName": "Finalize and sign the contract to initiate the implementation"} dc-card -->
+- Prepare
+  - [Conduct project kickoff meeting](#conduct-project-kickoff-meeting)<!-- dc-card: {"label": ["BRISKEN, CUSTOMER"], "cardName": "Conduct project kickoff meeting"} dc-card -->
+  - [Activate SAP MBC in customers SAP environment](#activate-sap-mbc-in-customers-sap-environment)<!-- dc-card: {"label": ["BRISKEN, CUSTOMER"], "cardName": "Activate SAP MBC in customers SAP environment"} dc-card -->
+  - [Ensure technical landscape readiness for SAP MBC implementation](#ensure-technical-landscape-readiness-for-sap-mbc-implementation)<!-- dc-card: {"label": ["BRISKEN, CUSTOMER"], "cardName": "Ensure technical landscape readiness for SAP MBC implementation"} dc-card -->
+- Explore
+  - [Conduct Fit-to-Standard workshop to map requirements to SAP MBC](#conduct-fit-to-standard-workshop-to-map-requirements-to-sap-mbc)<!-- dc-card: {"label": ["BRISKEN, CUSTOMER"], "cardName": "Conduct Fit-to-Standard workshop to map requirements to SAP MBC"} dc-card -->
+  - [Validate customer requirements against SAP MBC functionality](#validate-customer-requirements-against-sap-mbc-functionality)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Validate customer requirements against SAP MBC functionality"} dc-card -->
+  - [Document payment formats required for 3 banks](#document-payment-formats-required-for-3-banks)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Document payment formats required for 3 banks"} dc-card -->
+- Realize
+  - [Plan MBC connectivity setup for each bank](#plan-mbc-connectivity-setup-for-each-bank)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Plan MBC connectivity setup for each bank"} dc-card -->
+  - [Prepare test plan and data for customer-specific scenarios](#prepare-test-plan-and-data-for-customer-specific-scenarios)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Prepare test plan and data for customer-specific scenarios"} dc-card -->
+  - [Configure SAP MBC for the customers company code](#configure-sap-mbc-for-the-customers-company-code)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Configure SAP MBC for the customers company code"} dc-card -->
+  - [Set up bank accounts and communication channels for 3 banks](#set-up-bank-accounts-and-communication-channels-for-3-banks)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Set up bank accounts and communication channels for 3 banks"} dc-card -->
+  - [Conduct unit and integration testing for each scenario](#conduct-unit-and-integration-testing-for-each-scenario)<!-- dc-card: {"label": ["BRISKEN, CUSTOMER"], "cardName": "Conduct unit and integration testing for each scenario"} dc-card -->
+- Deploy
+  - [Train key users on SAP MBC functionality](#train-key-users-on-sap-mbc-functionality)<!-- dc-card: {"label": ["BRISKEN, CUSTOMER"], "cardName": "Train key users on SAP MBC functionality"} dc-card -->
+  - [Prepare cutover plan and production environment](#prepare-cutover-plan-and-production-environment)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Prepare cutover plan and production environment"} dc-card -->
+  - [Conduct UAT and validate end-to-end process for 3 banks](#conduct-uat-and-validate-end-to-end-process-for-3-banks)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Conduct UAT and validate end-to-end process for 3 banks"} dc-card -->
+  - [Move configurations to production and execute first live payment run](#move-configurations-to-production-and-execute-first-live-payment-run)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Move configurations to production and execute first live payment run"} dc-card -->
+- Run
+  - [Monitor initial transactions for errors and delays](#monitor-initial-transactions-for-errors-and-delays)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Monitor initial transactions for errors and delays"} dc-card -->
+  - [Obtain hypercare support for 24 weeks post-go-live](#obtain-hypercare-support-for-24-weeks-post-go-live)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Obtain hypercare support for 24 weeks post-go-live"} dc-card -->
+  - [Transition support to customers internal IT team](#transition-support-to-customers-internal-it-team)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Transition support to customers internal IT team"} dc-card -->
+  - [Conduct final project review and closure](#conduct-final-project-review-and-closure)<!-- dc-card: {"label": ["CUSTOMER, BRISKEN"], "cardName": "Conduct final project review and closure"} dc-card -->
+- Project Closure
+  - [Co-create a Success Story with Brisken](#co-create-a-success-story-with-brisken)<!-- dc-card: {"label": ["PROJECT"], "cardName": "Co-create a Success Story with Brisken"} dc-card -->
+  - [Facilitate a Strategic Roadmap & Project Closure Workshop](#facilitate-a-strategic-roadmap-project-closure-workshop)<!-- dc-card: {"label": ["PROJECT"], "cardName": "Facilitate a Strategic Roadmap & Project Closure Workshop"} dc-card -->
 <!-- disco-toc-end -->
 
-## Obtain access to a self-guided demo environment for SAP MBC <!-- dc-card: {"label": ["self-discovery phase"], "cardName": "Obtain access to a self-guided demo environment for SAP MBC"} dc-card -->
+## Obtain access to a self-guided demo environment for SAP MBC
 
 ### Obtain access to a self-guided demo environment for SAP MBC
 
@@ -55,8 +64,7 @@ A short description of the tasks related to 'obtain access to a self-guided demo
 **Expected Outcome:**
 You will have completed the tasks related to 'obtain access to a self-guided demo environment for sap mbc', gaining insight or progressing in your evaluation.
 
-
-## Review product brochures, FAQs, and recorded demo videos <!-- dc-card: {"label": ["self-discovery phase"], "cardName": "Review product brochures, FAQs, and recorded demo videos"} dc-card -->
+## Review product brochures, FAQs, and recorded demo videos
 
 ### Review product brochures, FAQs, and recorded demo videos
 
@@ -77,8 +85,7 @@ A short description of the tasks related to 'review product brochures, faqs, and
 **Expected Outcome:**
 You will have completed the tasks related to 'review product brochures, faqs, and recorded demo videos', gaining insight or progressing in your evaluation.
 
-
-## Gain access to a sandbox environment for hands-on exploration <!-- dc-card: {"label": ["self-discovery phase"], "cardName": "Gain access to a sandbox environment for hands-on exploration"} dc-card -->
+## Request access to a sandbox environment for hands-on exploration
 
 ### Request access to a sandbox environment for hands-on exploration
 
@@ -99,8 +106,7 @@ A short description of the tasks related to 'gain access to a sandbox environmen
 **Expected Outcome:**
 You will have completed the tasks related to 'gain access to a sandbox environment for hands-on exploration', gaining insight or progressing in your evaluation.
 
-
-## Highlight potential use cases for SAP MBC <!-- dc-card: {"label": ["self-discovery phase"], "cardName": "Highlight potential use cases for SAP MBC"} dc-card -->
+## Highlight potential use cases for SAP MBC
 
 ### Highlight potential use cases for SAP MBC
 
@@ -121,8 +127,7 @@ A short description of the tasks related to 'highlight potential use cases for s
 **Expected Outcome:**
 You will have completed the tasks related to 'highlight potential use cases for sap mbc', gaining insight or progressing in your evaluation.
 
-
-## Obtain FAQ or chatbot support for customer queries <!-- dc-card: {"label": ["self-discovery phase"], "cardName": "Obtain FAQ or chatbot support for customer queries"} dc-card -->
+## Obtain FAQ or chatbot support for customer queries
 
 ### Obtain FAQ or chatbot support for customer queries
 
@@ -143,8 +148,7 @@ A short description of the tasks related to 'obtain faq or chatbot support for c
 **Expected Outcome:**
 You will have completed the tasks related to 'obtain faq or chatbot support for customer queries', gaining insight or progressing in your evaluation.
 
-
-## Conduct a live demo session tailored to customer requirements <!-- dc-card: {"label": ["brisken engagement phase"], "cardName": "Conduct a live demo session tailored to customer requirements"} dc-card -->
+## Conduct a live demo session tailored to customer requirements
 
 ### Conduct a live demo session tailored to customer requirements
 
@@ -165,8 +169,7 @@ A short description of the tasks related to 'conduct a live demo session tailore
 **Expected Outcome:**
 You will have completed the tasks related to 'conduct a live demo session tailored to customer requirements', gaining insight or progressing in your evaluation.
 
-
-## Showcase key SAP MBC functionalities in live demo <!-- dc-card: {"label": ["brisken engagement phase"], "cardName": "Showcase key SAP MBC functionalities in live demo"} dc-card -->
+## Showcase key SAP MBC functionalities in live demo
 
 ### Showcase key SAP MBC functionalities in live demo
 
@@ -187,8 +190,7 @@ A short description of the tasks related to 'showcase key sap mbc functionalitie
 **Expected Outcome:**
 You will have completed the tasks related to 'showcase key sap mbc functionalities in live demo', gaining insight or progressing in your evaluation.
 
-
-## Host a technical workshop to evaluate customer SAP system readiness <!-- dc-card: {"label": ["brisken engagement phase"], "cardName": "Host a technical workshop to evaluate customer SAP system readiness"} dc-card -->
+## Host a technical workshop to evaluate customer SAP system readiness
 
 ### Host a technical workshop to evaluate customer SAP system readiness
 
@@ -209,8 +211,7 @@ A short description of the tasks related to 'host a technical workshop to evalua
 **Expected Outcome:**
 You will have completed the tasks related to 'host a technical workshop to evaluate customer sap system readiness', gaining insight or progressing in your evaluation.
 
-
-## Define project scope for 1 company code and 3 banks <!-- dc-card: {"label": ["brisken engagement phase"], "cardName": "Define project scope for 1 company code and 3 banks"} dc-card -->
+## Define project scope for 1 company code and 3 banks
 
 ### Define project scope for 1 company code and 3 banks
 
@@ -231,8 +232,7 @@ A short description of the tasks related to 'define project scope for 1 company 
 **Expected Outcome:**
 You will have completed the tasks related to 'define project scope for 1 company code and 3 banks', gaining insight or progressing in your evaluation.
 
-
-## Present fixed-scope, fixed-price proposal with project timelines <!-- dc-card: {"label": ["brisken engagement phase"], "cardName": "Present fixed-scope, fixed-price proposal with project timelines"} dc-card -->
+## Present fixed-scope, fixed-price proposal with project timelines
 
 ### Present fixed-scope, fixed-price proposal with project timelines
 
@@ -253,8 +253,7 @@ A short description of the tasks related to 'present fixed-scope, fixed-price pr
 **Expected Outcome:**
 You will have completed the tasks related to 'present fixed-scope, fixed-price proposal with project timelines', gaining insight or progressing in your evaluation.
 
-
-## Finalize and sign the contract to initiate the implementation <!-- dc-card: {"label": ["brisken engagement phase"], "cardName": "Finalize and sign the contract to initiate the implementation"} dc-card -->
+## Finalize and sign the contract to initiate the implementation
 
 ### Finalize and sign the contract to Try initiating the implementation
 
@@ -275,8 +274,7 @@ A short description of the tasks related to 'finalize and sign the contract to i
 **Expected Outcome:**
 You will have completed the tasks related to 'finalize and sign the contract to initiate the implementation', gaining insight or progressing in your evaluation.
 
-
-## Conduct project kickoff meeting <!-- dc-card: {"label": ["prepare phase"], "cardName": "Conduct project kickoff meeting"} dc-card -->
+## Conduct project kickoff meeting
 
 ### Conduct project kickoff meeting
 
@@ -297,8 +295,7 @@ A short description of the tasks related to 'conduct project kickoff meeting'.
 **Expected Outcome:**
 You will have completed the tasks related to 'conduct project kickoff meeting', gaining insight or progressing in your evaluation.
 
-
-## Activate SAP MBC in customers SAP environment <!-- dc-card: {"label": ["prepare phase"], "cardName": "Activate SAP MBC in customers SAP environment"} dc-card -->
+## Activate SAP MBC in customers SAP environment
 
 ### Activate SAP MBC in customers SAP environment
 
@@ -321,30 +318,7 @@ A short description of the tasks related to 'activate sap mbc in customers sap e
 **Expected Outcome:**
 You will have completed the tasks related to 'activate sap mbc in customers sap environment', gaining insight or progressing in your evaluation.
 
-
-## Conduct Fit-to-Standard workshop to map requirements to SAP MBC <!-- dc-card: {"label": ["prepare phase"], "cardName": "Conduct Fit-to-Standard workshop to map requirements to SAP MBC"} dc-card -->
-
-### Conduct Fit-to-Standard workshop to map requirements to SAP MBC
-
----
-A short description of the tasks related to 'conduct fit-to-standard workshop to map requirements to sap mbc'.
-
-
----
-**Instructions:**
-
-1. Schedule a Fit-to-Standard workshop with all relevant stakeholders from the customers team.
-2. Review the customers requirements in detail and map them against SAP MBC's standard capabilities.
-3. Identify any gaps between the customers requirements and SAP MBC functionalities and discuss possible workarounds or customizations.
-4. Document the agreed-upon mapping and any additional configurations required to meet the customers needs.
-5. Obtain written approval from the customer on the final mapping document before proceeding to the next phase.
-
----
-**Expected Outcome:**
-You will have completed the tasks related to 'conduct fit-to-standard workshop to map requirements to sap mbc', gaining insight or progressing in your evaluation.
-
-
-## Ensure technical landscape readiness for SAP MBC implementation <!-- dc-card: {"label": ["prepare phase"], "cardName": "Ensure technical landscape readiness for SAP MBC implementation"} dc-card -->
+## Ensure technical landscape readiness for SAP MBC implementation
 
 ### Ensure technical landscape readiness for SAP MBC implementation
 
@@ -365,8 +339,28 @@ A short description of the tasks related to 'ensure technical landscape readines
 **Expected Outcome:**
 You will have completed the tasks related to 'ensure technical landscape readiness for sap mbc implementation', gaining insight or progressing in your evaluation.
 
+## Conduct Fit-to-Standard workshop to map requirements to SAP MBC
 
-## Validate customer requirements against SAP MBC functionality <!-- dc-card: {"label": ["explore phase"], "cardName": "Validate customer requirements against SAP MBC functionality"} dc-card -->
+### Conduct Fit-to-Standard workshop to map requirements to SAP MBC
+
+---
+A short description of the tasks related to 'conduct fit-to-standard workshop to map requirements to sap mbc'.
+
+
+---
+**Instructions:**
+
+1. Schedule a Fit-to-Standard workshop with all relevant stakeholders from the customers team.
+2. Review the customers requirements in detail and map them against SAP MBC's standard capabilities.
+3. Identify any gaps between the customers requirements and SAP MBC functionalities and discuss possible workarounds or customizations.
+4. Document the agreed-upon mapping and any additional configurations required to meet the customers needs.
+5. Obtain written approval from the customer on the final mapping document before proceeding to the next phase.
+
+---
+**Expected Outcome:**
+You will have completed the tasks related to 'conduct fit-to-standard workshop to map requirements to sap mbc', gaining insight or progressing in your evaluation.
+
+## Validate customer requirements against SAP MBC functionality
 
 ### Validate customer requirements against SAP MBC functionality
 
@@ -387,8 +381,7 @@ A short description of the tasks related to 'validate customer requirements agai
 **Expected Outcome:**
 You will have completed the tasks related to 'validate customer requirements against sap mbc functionality', gaining insight or progressing in your evaluation.
 
-
-## Document payment formats required for 3 banks <!-- dc-card: {"label": ["explore phase"], "cardName": "Document payment formats required for 3 banks"} dc-card -->
+## Document payment formats required for 3 banks
 
 ### Document payment formats required for 3 banks
 
@@ -409,8 +402,7 @@ A short description of the tasks related to 'document payment formats required f
 **Expected Outcome:**
 You will have completed the tasks related to 'document payment formats required for 3 banks', gaining insight or progressing in your evaluation.
 
-
-## Plan MBC connectivity setup for each bank <!-- dc-card: {"label": ["explore phase"], "cardName": "Plan MBC connectivity setup for each bank"} dc-card -->
+## Plan MBC connectivity setup for each bank
 
 ### Plan MBC connectivity setup for each bank
 
@@ -431,8 +423,7 @@ A short description of the tasks related to 'plan mbc connectivity setup for eac
 **Expected Outcome:**
 You will have completed the tasks related to 'plan mbc connectivity setup for each bank', gaining insight or progressing in your evaluation.
 
-
-## Prepare test plan and data for customer-specific scenarios <!-- dc-card: {"label": ["explore phase"], "cardName": "Prepare test plan and data for customer-specific scenarios"} dc-card -->
+## Prepare test plan and data for customer-specific scenarios
 
 ### Prepare test plan and data for customer-specific scenarios
 
@@ -453,8 +444,7 @@ A short description of the tasks related to 'prepare test plan and data for cust
 **Expected Outcome:**
 You will have completed the tasks related to 'prepare test plan and data for customer-specific scenarios', gaining insight or progressing in your evaluation.
 
-
-## Configure SAP MBC for the customers company code <!-- dc-card: {"label": ["realize phase"], "cardName": "Configure SAP MBC for the customers company code"} dc-card -->
+## Configure SAP MBC for the customers company code
 
 ### Configure SAP MBC for the customers company code
 
@@ -475,8 +465,7 @@ A short description of the tasks related to 'configure sap mbc for the customers
 **Expected Outcome:**
 You will have completed the tasks related to 'configure sap mbc for the customers company code', gaining insight or progressing in your evaluation.
 
-
-## Set up bank accounts and communication channels for 3 banks <!-- dc-card: {"label": ["realize phase"], "cardName": "Set up bank accounts and communication channels for 3 banks"} dc-card -->
+## Set up bank accounts and communication channels for 3 banks
 
 ### Set up bank accounts and communication channels for 3 banks
 
@@ -497,8 +486,7 @@ A short description of the tasks related to 'set up bank accounts and communicat
 **Expected Outcome:**
 You will have completed the tasks related to 'set up bank accounts and communication channels for 3 banks', gaining insight or progressing in your evaluation.
 
-
-## Conduct unit and integration testing for each scenario <!-- dc-card: {"label": ["realize phase"], "cardName": "Conduct unit and integration testing for each scenario"} dc-card -->
+## Conduct unit and integration testing for each scenario
 
 ### Conduct unit and integration testing for each scenario
 
@@ -519,8 +507,7 @@ A short description of the tasks related to 'conduct unit and integration testin
 **Expected Outcome:**
 You will have completed the tasks related to 'conduct unit and integration testing for each scenario', gaining insight or progressing in your evaluation.
 
-
-## Train key users on SAP MBC functionality <!-- dc-card: {"label": ["realize phase"], "cardName": "Train key users on SAP MBC functionality"} dc-card -->
+## Train key users on SAP MBC functionality
 
 ### Train key users on SAP MBC functionality
 
@@ -541,8 +528,7 @@ A short description of the tasks related to 'train key users on sap mbc function
 **Expected Outcome:**
 You will have completed the tasks related to 'train key users on sap mbc functionality', gaining insight or progressing in your evaluation.
 
-
-## Prepare cutover plan and production environment <!-- dc-card: {"label": ["deploy phase"], "cardName": "Prepare cutover plan and production environment"} dc-card -->
+## Prepare cutover plan and production environment
 
 ### Prepare cutover plan and production environment
 
@@ -563,8 +549,7 @@ A short description of the tasks related to 'prepare cutover plan and production
 **Expected Outcome:**
 You will have completed the tasks related to 'prepare cutover plan and production environment', gaining insight or progressing in your evaluation.
 
-
-## Conduct UAT and validate end-to-end process for 3 banks <!-- dc-card: {"label": ["deploy phase"], "cardName": "Conduct UAT and validate end-to-end process for 3 banks"} dc-card -->
+## Conduct UAT and validate end-to-end process for 3 banks
 
 ### Conduct UAT and validate end-to-end process for 3 banks
 
@@ -585,8 +570,7 @@ A short description of the tasks related to 'conduct uat and validate end-to-end
 **Expected Outcome:**
 You will have completed the tasks related to 'conduct uat and validate end-to-end process for 3 banks', gaining insight or progressing in your evaluation.
 
-
-## Move configurations to production and execute first live payment run <!-- dc-card: {"label": ["deploy phase"], "cardName": "Move configurations to production and execute first live payment run"} dc-card -->
+## Move configurations to production and execute first live payment run
 
 ### Move configurations to production and execute first live payment run
 
@@ -607,8 +591,7 @@ A short description of the tasks related to 'move configurations to production a
 **Expected Outcome:**
 You will have completed the tasks related to 'move configurations to production and execute first live payment run', gaining insight or progressing in your evaluation.
 
-
-## Monitor initial transactions for errors and delays <!-- dc-card: {"label": ["run phase"], "cardName": "Monitor initial transactions for errors and delays"} dc-card -->
+## Monitor initial transactions for errors and delays
 
 ### Monitor initial transactions for errors and delays
 
@@ -629,8 +612,7 @@ A short description of the tasks related to 'monitor initial transactions for er
 **Expected Outcome:**
 You will have completed the tasks related to 'monitor initial transactions for errors and delays', gaining insight or progressing in your evaluation.
 
-
-## Obtain hypercare support for 24 weeks post-go-live <!-- dc-card: {"label": ["run phase"], "cardName": "Obtain hypercare support for 24 weeks post-go-live"} dc-card -->
+## Obtain hypercare support for 24 weeks post-go-live
 
 ### Obtain hypercare support for 24 weeks post-go-live
 
@@ -651,8 +633,7 @@ A short description of the tasks related to 'obtain hypercare support for 24 wee
 **Expected Outcome:**
 You will have completed the tasks related to 'obtain hypercare support for 24 weeks post-go-live', gaining insight or progressing in your evaluation.
 
-
-## Transition support to customers internal IT team <!-- dc-card: {"label": ["run phase"], "cardName": "Transition support to customers internal IT team"} dc-card -->
+## Transition support to customers internal IT team
 
 ### Transition support to customers internal IT team
 
@@ -673,8 +654,7 @@ A short description of the tasks related to 'transition support to customers int
 **Expected Outcome:**
 You will have completed the tasks related to 'transition support to customers internal it team', gaining insight or progressing in your evaluation.
 
-
-## Conduct final project review and closure <!-- dc-card: {"label": ["run phase"], "cardName": "Conduct final project review and closure"} dc-card -->
+## Conduct final project review and closure
 
 ### Conduct final project review and closure
 
@@ -694,3 +674,40 @@ A short description of the tasks related to 'conduct final project review and cl
 ---
 **Expected Outcome:**
 You will have completed the tasks related to 'conduct final project review and closure', gaining insight or progressing in your evaluation.
+
+## Co-create a Success Story with Brisken
+
+### Co-create a Success Story with Brisken
+
+**Objective:**  
+Showcase the value delivered during the project by co-authoring a success story with Brisken to be published on:
+- SAP Discovery Center
+- SAP Store
+- Brisken Website
+
+**Instructions:**  
+1. Schedule a final interview with stakeholders from both the customer and Brisken.
+2. Collect qualitative and quantitative outcomes of the project.
+3. Draft the narrative around challenges, solution, results, and business impact.
+4. Coordinate internal reviews and approvals.
+5. Submit to SAP and Brisken marketing for distribution.
+
+**Expected Outcome:**  
+A published success story highlighting the project's innovation and strategic value.
+
+## Facilitate a Strategic Roadmap & Project Closure Workshop
+
+### Facilitate a Strategic Roadmap & Project Closure Workshop
+
+**Objective:**  
+Conduct a workshop to consolidate final results, review open requirements, and define the roadmap beyond this phase.
+
+**Instructions:**  
+1. Gather all open requirements, backlogs, and wishlist items from the current project.
+2. Present findings during the project closure meeting.
+3. Map out potential next phases including additional Brisken solutions and SAP capabilities.
+4. Identify quick wins and longer-term roadmap milestones.
+5. Document and share the roadmap with all stakeholders.
+
+**Expected Outcome:**  
+A jointly defined roadmap that bridges current project outcomes with future opportunities.
