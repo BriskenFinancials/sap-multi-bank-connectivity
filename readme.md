@@ -38,9 +38,13 @@
   - [Obtain hypercare support for 24 weeks post-go-live](#obtain-hypercare-support-for-24-weeks-post-go-live)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Obtain hypercare support for 24 weeks post-go-live"} dc-card -->
   - [Transition support to customers internal IT team](#transition-support-to-customers-internal-it-team)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Transition support to customers internal IT team"} dc-card -->
   - [Conduct final project review and closure](#conduct-final-project-review-and-closure)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Conduct final project review and closure"} dc-card -->
-- Project Closure
+- Complete
   - [Co-create a Success Story with Brisken](#co-create-a-success-story-with-brisken)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Co-create a Success Story with Brisken"} dc-card -->
   - [Facilitate a Strategic Roadmap & Project Closure Workshop](#facilitate-a-strategic-roadmap-project-closure-workshop)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Facilitate a Strategic Roadmap & Project Closure Workshop"} dc-card -->
+  - [Create go-live communication](#create-go-live-communication)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Create go-live communication"} dc-card -->
+  - [Tell us what do you think](#tell-us-what-do-you-think)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Tell us what do you think"} dc-card -->
+  - [Explore similar missions](#explore-similar-missions)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Explore similar missions"} dc-card -->
+  - [Complete the mission](#complete-the-mission)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Complete the mission"} dc-card -->
 <!-- disco-toc-end -->
 
 ## Obtain access to a self-guided demo environment for SAP MBC
@@ -711,3 +715,63 @@ Conduct a workshop to consolidate final results, review open requirements, and d
 
 **Expected Outcome:**  
 A jointly defined roadmap that bridges current project outcomes with future opportunities.
+
+## Create go-live communication
+
+### Create go-live communication
+
+**Objective:**  
+Prepare and share go-live announcements for stakeholders.
+
+**Instructions:**  
+1. Draft communication assets for internal and external channels.  
+2. Announce successful go-live to relevant audiences.  
+3. Include links to the project success story and next steps.
+
+**Expected Outcome:**  
+Effective and visible communication of project success.
+
+## Tell us what do you think
+
+### Tell us what do you think
+
+**Objective:**  
+Collect feedback from project participants.
+
+**Instructions:**  
+1. Share a feedback form with team and customer stakeholders.  
+2. Gather insights on process, delivery, and outcomes.  
+3. Review and summarize suggestions for improvement.
+
+**Expected Outcome:**  
+Consolidated feedback for continuous improvement.
+
+## Explore similar missions
+
+### Explore similar missions
+
+**Objective:**  
+Introduce the customer to other related use cases.
+
+**Instructions:**  
+1. Suggest relevant follow-on use cases or Brisken solutions.  
+2. Link to missions in the SAP Discovery Center or internal library.  
+3. Offer a short walk-through of selected missions.
+
+**Expected Outcome:**  
+Customer awareness of further innovation potential.
+
+## Complete the mission
+
+### Complete the mission
+
+**Objective:**  
+Wrap up project formally in the UCR.
+
+**Instructions:**  
+1. Close all open tasks in the SAP UCR board.  
+2. Document outcomes and archive key deliverables.  
+3. Mark mission status as complete.
+
+**Expected Outcome:**  
+Properly archived and marked completed project.
