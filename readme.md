@@ -39,8 +39,8 @@
   - [Transition support to customers internal IT team](#transition-support-to-customers-internal-it-team)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Transition support to customers internal IT team"} dc-card -->
   - [Conduct final project review and closure](#conduct-final-project-review-and-closure)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Conduct final project review and closure"} dc-card -->
 - Project Closure
-  - [Co-create a Success Story with Brisken](#co-create-a-success-story-with-brisken)<!-- dc-card: {"label": ["PROJECT"], "cardName": "Co-create a Success Story with Brisken"} dc-card -->
-  - [Facilitate a Strategic Roadmap & Project Closure Workshop](#facilitate-a-strategic-roadmap-project-closure-workshop)<!-- dc-card: {"label": ["PROJECT"], "cardName": "Facilitate a Strategic Roadmap & Project Closure Workshop"} dc-card -->
+  - [Co-create a Success Story with Brisken](#co-create-a-success-story-with-brisken)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Co-create a Success Story with Brisken"} dc-card -->
+  - [Facilitate a Strategic Roadmap & Project Closure Workshop](#facilitate-a-strategic-roadmap-project-closure-workshop)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Facilitate a Strategic Roadmap & Project Closure Workshop"} dc-card -->
 <!-- disco-toc-end -->
 
 ## Obtain access to a self-guided demo environment for SAP MBC
