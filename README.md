@@ -2,9 +2,7 @@
 
 <!-- disco-toc-start -->
 - Discover
-  - [Obtain access to a self-guided demo environment for SAP MBC](cards/01-obtain-access-to-a-self-guided-demo-environment-for-sap-mbc.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Obtain access to a self-guided demo environment for SAP MBC"} dc-card -->
   - [Review product brochures, FAQs, and recorded demo videos](cards/02-review-product-brochures-faqs-and-recorded-demo-videos.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Review product brochures, FAQs, and recorded demo videos"} dc-card -->
-  - [Request access to a sandbox environment for hands-on exploration](cards/03-request-access-to-a-sandbox-environment-for-hands-on-exploration.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Request access to a sandbox environment for hands-on exploration"} dc-card -->
   - [Highlight potential use cases for SAP MBC](cards/04-highlight-potential-use-cases-for-sap-mbc.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Highlight potential use cases for SAP MBC"} dc-card -->
   - [Obtain FAQ or chatbot support for customer queries](cards/05-obtain-faq-or-chatbot-support-for-customer-queries.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Obtain FAQ or chatbot support for customer queries"} dc-card -->
 - Talk To Brisken
