@@ -5,15 +5,13 @@
 ---
 A short description of the tasks related to 'review product brochures, faqs, and recorded demo videos'.
 
-
 ---
 **Instructions:**
 
-1. Gather all relevant product brochures, FAQs, and demo videos that showcase SAP MBC's functionalities.
-2. Verify that all materials are up-to-date and cover key features like multi-bank integration and payment processing.
-3. Review the resources with the customer through email or a shared folder with clear access instructions.
-4. Highlight specific sections or videos that align with the customers interests and requirements.
-5. Offer to answer any additional questions and collect feedback on the provided materials.
+1. Use the following links to gain further insights on the solution
+2. [SAP Help](https://help.sap.com/docs/SAP_MULTI_BANK_CONNECTIVITY/3fa51d2862684bcfa3183bf499792673/6146e281e340429498d7f138eda3dea4.html?locale=en-US)
+3. [SAP Demo Video](https://video.wixstatic.com/video/489e3a_3a54fa3bfedc40e6965bfa82e4820094/1080p/mp4/file.mp4)
+4. Reach out to [Brisken](mailto:mbc@brisken.com) for additional clarification and insights.
 
 ---
 **Expected Outcome:**
